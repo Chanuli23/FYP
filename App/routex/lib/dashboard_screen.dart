@@ -34,7 +34,7 @@ class _DashboardScreenState extends State<DashboardScreen>
 
   final List<Widget> _tabs = [
     const HomeTab(),
-    const RouteTasksScreen(routeName: "Routes"),
+    const RouteTasksScreen(routeName: "Route"),
     MapTab(),
     const EmergencyTab(),
   ];
