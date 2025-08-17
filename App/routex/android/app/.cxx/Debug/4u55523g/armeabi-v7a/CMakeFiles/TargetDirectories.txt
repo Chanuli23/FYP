@@ -1,0 +1,2 @@
+C:/Users/HP/OneDrive/Desktop/routex/android/app/.cxx/Debug/4u55523g/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/HP/OneDrive/Desktop/routex/android/app/.cxx/Debug/4u55523g/armeabi-v7a/CMakeFiles/rebuild_cache.dir

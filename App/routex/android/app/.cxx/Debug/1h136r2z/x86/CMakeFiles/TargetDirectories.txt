@@ -1,0 +1,2 @@
+C:/Users/HP/OneDrive/Documents/GitHub/RouteX/routex/android/app/.cxx/Debug/1h136r2z/x86/CMakeFiles/edit_cache.dir
+C:/Users/HP/OneDrive/Documents/GitHub/RouteX/routex/android/app/.cxx/Debug/1h136r2z/x86/CMakeFiles/rebuild_cache.dir

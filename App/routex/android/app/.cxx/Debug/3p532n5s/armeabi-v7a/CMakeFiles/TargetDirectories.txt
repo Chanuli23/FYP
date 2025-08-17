@@ -1,0 +1,2 @@
+C:/Users/HP/OneDrive/Desktop/ROUTEX-2025/ROUTEX/routex/android/app/.cxx/Debug/3p532n5s/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/HP/OneDrive/Desktop/ROUTEX-2025/ROUTEX/routex/android/app/.cxx/Debug/3p532n5s/armeabi-v7a/CMakeFiles/rebuild_cache.dir

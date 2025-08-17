@@ -1,0 +1,15 @@
+{
+  "select_language": "Select Language",
+  "home": "Home",
+  "routes": "Routes",
+  "map": "Map",
+  "emergency": "Emergency",
+  "welcome": "Welcome",
+  "edit_profile": "Edit Profile",
+  "settings": "Settings",
+  "help_support": "Help & Support",
+  "logout": "Logout",
+  "total_vehicles": "Total Vehicles",
+  "active_routes": "Active Routes",
+  "completed_tasks": "Completed Tasks"
+}

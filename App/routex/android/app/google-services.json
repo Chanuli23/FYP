@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "519379931437",
+    "project_id": "drive-app-ec08e",
+    "storage_bucket": "drive-app-ec08e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519379931437:android:977e8a46962dc70695c3a4",
+        "android_client_info": {
+          "package_name": "com.example.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs1wcdBHQ6y2oU4o9c3uNxwLqPeMGndi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519379931437:android:4af7f5f9968e361b95c3a4",
+        "android_client_info": {
+          "package_name": "com.example.routex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs1wcdBHQ6y2oU4o9c3uNxwLqPeMGndi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

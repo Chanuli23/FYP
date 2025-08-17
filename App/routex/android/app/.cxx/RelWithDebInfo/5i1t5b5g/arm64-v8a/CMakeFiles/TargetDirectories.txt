@@ -1,0 +1,2 @@
+C:/Users/HP/OneDrive/Desktop/ROUTEX/routex/android/app/.cxx/RelWithDebInfo/5i1t5b5g/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/HP/OneDrive/Desktop/ROUTEX/routex/android/app/.cxx/RelWithDebInfo/5i1t5b5g/arm64-v8a/CMakeFiles/rebuild_cache.dir
